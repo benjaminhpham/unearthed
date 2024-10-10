@@ -1,6 +1,5 @@
 const giftData = [
   {
-    id: 1,
     name: "Disco Ball Candle",
     pricePoint: "$",
     audience: "Candle Lovers",
@@ -10,7 +9,6 @@ const giftData = [
     submittedOn: "2022-09-04T14:48:00",
   },
   {
-    id: 2,
     name: "Lego Flower Bouquet Kit",
     pricePoint: "$",
     audience: "Green Thumbs",
@@ -20,7 +18,6 @@ const giftData = [
     submittedOn: "2023-02-14T12:32:00",
   },
   {
-    id: 3,
     name: "Nintendo Switch Lite",
     pricePoint: "$$",
     audience: "Gamers",
@@ -30,7 +27,6 @@ const giftData = [
     submittedOn: "2022-09-13T11:01:00",
   },
   {
-    id: 4,
     name: "Nike Panda Dunks",
     pricePoint: "$$",
     audience: "Sneakerheads",
@@ -40,7 +36,6 @@ const giftData = [
     submittedOn: "2023-03-10T05:23:00",
   },
   {
-    id: 5,
     name: "Razer Kitty Headset",
     pricePoint: "$$",
     audience: "Gamers",
@@ -51,7 +46,6 @@ const giftData = [
     submittedOn: "2011-10-10T14:48:00",
   },
   {
-    id: 6,
     name: "Nellsi Sunset Lamp Projection",
     pricePoint: "$",
     audience: "Sungazers",
@@ -61,7 +55,6 @@ const giftData = [
     submittedOn: "2011-10-10T14:48:00",
   },
   {
-    id: 7,
     name: "Frigidaire Retro Mini Fridge",
     pricePoint: "$",
     audience: "Foodies",
@@ -71,7 +64,6 @@ const giftData = [
     submittedOn: "2023-01-01T14:48:00",
   },
   {
-    id: 8,
     name: "Crosley Discover Turntable",
     pricePoint: "$",
     audience: "Music Lovers",
@@ -82,7 +74,6 @@ const giftData = [
     submittedOn: "2023-04-01T07:02:00",
   },
   {
-    id: 9,
     name: "Brandon Blackwood Parker Bag",
     pricePoint: "$$",
     audience: "Fashionistas",
